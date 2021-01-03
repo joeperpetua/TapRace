@@ -1,0 +1,15 @@
+
+// light grey
+#FCE8E8
+
+// grey
+#CCC0C7
+
+// blue
+#4E4EC5
+
+// green
+#5CBD70
+
+// red
+#DB3F44
